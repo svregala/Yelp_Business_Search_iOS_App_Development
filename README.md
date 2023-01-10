@@ -3,4 +3,4 @@
    [Insert Link]
 
 Notes:
-- Backend service is writtend in Node.js and is deployed on Google Cloud Platform (GCP)
+- Backend service is written in Node.js and is deployed on Google Cloud Platform (GCP)
